@@ -1,3 +1,5 @@
+package PracOne;
+
 public class FixDebugOne2
 {
    /* This program displays some output*/

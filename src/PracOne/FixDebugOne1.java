@@ -1,3 +1,5 @@
+package PracOne;
+
 public class FixDebugOne1{
 
    /* This program displays a greeting */

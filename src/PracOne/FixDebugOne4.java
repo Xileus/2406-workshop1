@@ -1,3 +1,5 @@
+package PracOne;
+
 import javax.swing.JOptionPane;
 public class FixDebugOne4
 {

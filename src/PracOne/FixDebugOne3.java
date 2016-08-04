@@ -1,3 +1,5 @@
+package PracOne;
+
 public class FixDebugOne3
 {
    public static void main(String[] args)
