@@ -333,7 +333,7 @@ public class App {
                         System.out.println("Enter new trump");
                         newTrump = scanner.nextLine();
 
-                        while(!NotTrump(newTrump)){
+                        while(NotTrump(newTrump)){
                             System.out.println("Invalid Trump\nEnter new trump");
                             newTrump = scanner.nextLine();
                         }
@@ -434,7 +434,7 @@ public class App {
                         System.out.println("Enter new trump");
                         newTrump = scanner.nextLine();
 
-                        while(!NotTrump(newTrump)){
+                        while(NotTrump(newTrump)){
                             System.out.println("Invalid Trump\nEnter new trump");
                             newTrump = scanner.nextLine();
                         }
@@ -481,14 +481,14 @@ public class App {
         Win(hand, player);
     }
     public static boolean NotTrump(String trump){
-        boolean isTrump = false;
+        boolean notTrump = true;
         for (String string:trumpTypes){
             if (trump.equalsIgnoreCase(string)){
-                isTrump = true;
+                notTrump = false;
                 break;
             }
         }
-        return isTrump;
+        return notTrump;
     }
     //----------
 
