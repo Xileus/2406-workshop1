@@ -9,7 +9,7 @@ import java.util.*;
 public class App {
     //-------------
     static String currentTrump;
-    static float highestCard = 0.0f;
+    static float highestCard = -1f;
     static String highestCardPlayer;
     static int passes = 0;
     //-------------
@@ -252,10 +252,8 @@ public class App {
         if (cardToPlay == null&&trumps.size()!=0){
 
                 PlayTrumpCard(trumps.get(0).getName(), hand, player);
-                passes = 0;
         } else if (cardToPlay == null&&trumps.size()==0){
              if (passes == players-1 || currentTrump == null) {
-                passes = 0;
                 Collections.shuffle(trumpTypes);
                 if (currentTrump == null){
                     while (trumpTypes.get(0) == currentTrump){
@@ -271,7 +269,6 @@ public class App {
                 passes++;
             }
         } else {
-            passes = 0;
             PlayMineralCard(cardToPlay, hand, player, currentTrump);
         }
 
@@ -291,7 +288,8 @@ public class App {
                 mineralCards.add((MineralCard) card);
             }
         }
-        System.out.println("\nSelect a card to see better details, or press N to play a card");
+        System.out.println("\nSelect a card to see better details, or press N to play a card" +
+                ((currentTrump == null) ? "":"\nCurrent Trump is " + getCurrentTrump() + " played by " + getHighestCardPlayer()));
         String input = scanner.nextLine();
         sys:while (true){
             if (input.equalsIgnoreCase("n")){
@@ -320,7 +318,7 @@ public class App {
                 } else {
 
                     if (currentTrump == null) {
-                        passes = 0;
+
                         for (SuperCard card: superCards){
                             if (card.getName().equalsIgnoreCase(input)){
                                 PlayTrumpCard(card.getName(), hand, player);
@@ -345,7 +343,6 @@ public class App {
                         }
 
                     } else {
-                        passes = 0;
                         float currentHigh = getHighestCard();
                         mineralCard:for (MineralCard card:mineralCards){
                             if (card.getName().equalsIgnoreCase(input)){
@@ -385,7 +382,6 @@ public class App {
                                         break mineralCard;
                                     }
                                 }
-
                                 break sys;
                             }
                         }
@@ -405,7 +401,8 @@ public class App {
                 }
             }
             DisplayHand(hand);
-            System.out.println("\nSelect a card to see better details, or press N to play a card");
+            System.out.println("\nSelect a card to see better details, or press N to play a card" +
+                    ((currentTrump == null) ? "":"\nCurrent Trump is " + getCurrentTrump() + " played by " + getHighestCardPlayer()));
             scanner = new Scanner(System.in);
             input = scanner.nextLine();
         }
@@ -414,8 +411,9 @@ public class App {
     }
     //----------
     public static void PlayTrumpCard(String card, ArrayList<Card> hand, String player){
+        passes = 0;
         String newTrump;
-        setHighestCard(0.0f);
+        setHighestCard(-1f);
         for (int i = 0; i<hand.size();i++){
             if (hand.get(i).getName() == card){
 
@@ -451,12 +449,13 @@ public class App {
         if (hand.size() == 0){
             System.out.println(player + " Wins!\n");
             setCurrentTrump(null);
-            setHighestCard(0.0f);
+            setHighestCard(-1f);
             setHighestCardPlayer(null);
         }
     }
 
     public static void PlayMineralCard(String card, ArrayList<Card> hand, String player, String category){
+        passes = 0;
         setHighestCardPlayer(player);
         setCurrentTrump(category);
         for (int i = 0; i<hand.size();i++){
@@ -506,6 +505,10 @@ public class App {
 
     public static void setHighestCard(float highestCard) {
         App.highestCard = highestCard;
+    }
+
+    public static String getHighestCardPlayer() {
+        return highestCardPlayer;
     }
 
     public static void setHighestCardPlayer(String highestCardPlayer) {
