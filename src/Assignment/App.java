@@ -174,7 +174,7 @@ public class App {
         //----------------------
         while (firstPlayer.size() != 0 && secondPlayer.size() != 0 && thirdPlayer.size() != 0 && fourthPlayer.size() != 0){
             if(secondPlayer.size() != 0 && thirdPlayer.size() != 0 && fourthPlayer.size() != 0)
-                AITurn(cards, players, firstPlayer, "First Player");
+                PlayerTurn(cards, players, firstPlayer, "First Player");
             if (firstPlayer.size() != 0 && thirdPlayer.size() != 0 && fourthPlayer.size() != 0)
                 AITurn(cards, players, secondPlayer, "Second Player");
             if (secondPlayer.size() != 0 && firstPlayer.size() != 0 && fourthPlayer.size() != 0)
@@ -193,7 +193,7 @@ public class App {
         //---------------------
         while (firstPlayer.size() != 0 && secondPlayer.size() != 0 && thirdPlayer.size() != 0 && fourthPlayer.size() != 0 && fifthPlayer.size() != 0){
             if(secondPlayer.size() != 0 && thirdPlayer.size() != 0 && fourthPlayer.size() != 0 && fifthPlayer.size() != 0)
-                AITurn(cards, players, firstPlayer, "First Player");
+                PlayerTurn(cards, players, firstPlayer, "First Player");
             if (firstPlayer.size() != 0 && thirdPlayer.size() != 0 && fourthPlayer.size() != 0 && fifthPlayer.size() != 0)
                 AITurn(cards, players, secondPlayer, "Second Player");
             if (secondPlayer.size() != 0 && firstPlayer.size() != 0 && fourthPlayer.size() != 0 && fifthPlayer.size() != 0)
@@ -498,10 +498,6 @@ public class App {
 
     public static String getCurrentTrump() {
         return currentTrump;
-    }
-
-    public static String getHighestCardPlayer() {
-        return highestCardPlayer;
     }
 
     public static void setCurrentTrump(String currentTrump) {
