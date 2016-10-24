@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck>
+  <pCard>
+    <fileName>Slide01.jpg</fileName>
+    <imageName>Slide01</imageName>
+    <card_type>play</card_type>
+    <title>Quartz</title>
+    <chemistry>SiO_2</chemistry>
+    <classification>tectosilicate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>7</hardness>
+    <specific_gravity>2.65</specific_gravity>
+    <cleavage>poor/none</cleavage>
+    <crustal_abundance>high</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide02.jpg</fileName>
+    <imageName>Slide02</imageName>
+    <card_type>play</card_type>
+    <title>Plagioclase</title>
+    <chemistry>Na Al Si_3 O_8 - Ca Al_2 Si_2 O_8</chemistry>
+    <classification>tectosilicate</classification>
+    <crystal_system>triclinic</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>6-6.5</hardness>
+    <specific_gravity>2.6-2.8</specific_gravity>
+    <cleavage>1 perfect, 1 good</cleavage>
+    <crustal_abundance>very high</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide03.jpg</fileName>
+    <imageName>Slide03</imageName>
+    <card_type>play</card_type>
+    <title>Orthoclase</title>
+    <chemistry>K Al Si_3 O_3</chemistry>
+    <classification>tectosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary,</occurrence>
+    <hardness>6-6.5</hardness>
+    <specific_gravity>2.5-2.6</specific_gravity>
+    <cleavage>1 perfect, 1 good</cleavage>
+    <crustal_abundance>high</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide04.jpg</fileName>
+    <imageName>Slide04</imageName>
+    <card_type>play</card_type>
+    <title>Biotite</title>
+    <chemistry>K(Fe, Mg)_3 Al Si_3 O_10 (OH)_2</chemistry>
+    <classification>phyllosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>2.5-3</hardness>
+    <specific_gravity>2.7-3.3</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide05.jpg</fileName>
+    <imageName>Slide05</imageName>
+    <card_type>play</card_type>
+    <title>Muscovite</title>
+    <chemistry>K Al_3 Si_3 O_10 (O H)_2</chemistry>
+    <classification>phyllosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>2.5-3</hardness>
+    <specific_gravity>2.8-2.9</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide06.jpg</fileName>
+    <imageName>Slide06</imageName>
+    <card_type>play</card_type>
+    <title>Hornblende</title>
+    <chemistry>Ca_2 (Mg, Fe)_4 Al_2 Si_7 O_22 (OH)_2</chemistry>
+    <classification>inosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>5-6.0</hardness>
+    <specific_gravity>3.0-3.5</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>trivial</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide07.jpg</fileName>
+    <imageName>Slide07</imageName>
+    <card_type>play</card_type>
+    <title>Actinolite</title>
+    <chemistry>Ca_2 (Mg, Fe)_5 Si_8 O_22 (OH)_2</chemistry>
+    <classification>inosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>5-6.0</hardness>
+    <specific_gravity>3.0-3.5</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide08.jpg</fileName>
+    <imageName>Slide08</imageName>
+    <card_type>play</card_type>
+    <title>Glaucophane</title>
+    <chemistry>Na_2 (Mg, Fe)_3 Al_2 Si_8 O_22 (OH)_2</chemistry>
+    <classification>inosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>6</hardness>
+    <specific_gravity>3.0-3.2</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>trivial</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide09.jpg</fileName>
+    <imageName>Slide09</imageName>
+    <card_type>play</card_type>
+    <title>Olivine</title>
+    <chemistry>(Mg, Fe)_2 Si O_4</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>igneous, metamorphic, mantle</occurrence>
+    <hardness>6.5-7</hardness>
+    <specific_gravity>3.2-4.4</specific_gravity>
+    <cleavage>2 poor</cleavage>
+    <crustal_abundance>high</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide10.jpg</fileName>
+    <imageName>Slide10</imageName>
+    <card_type>play</card_type>
+    <title>Garnet</title>
+    <chemistry>(Fe, Mg, Ca, Mn)_3 (Al, Fe)_2 Si_3 O_12</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>igneous, metamorphic, mantle</occurrence>
+    <hardness>6-7.5</hardness>
+    <specific_gravity>3.5-4.3</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide11.jpg</fileName>
+    <imageName>Slide11</imageName>
+    <card_type>play</card_type>
+    <title>Titanite</title>
+    <chemistry>Ca Ti Si O_5</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>5-5.5</hardness>
+    <specific_gravity>3.4-3.6</specific_gravity>
+    <cleavage>3 good</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide12.jpg</fileName>
+    <imageName>Slide12</imageName>
+    <card_type>play</card_type>
+    <title>Zircon</title>
+    <chemistry>Zr Si O_4</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>tetragonal</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>7.5</hardness>
+    <specific_gravity>4.6-4.7</specific_gravity>
+    <cleavage>2 poor</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide13.jpg</fileName>
+    <imageName>Slide13</imageName>
+    <card_type>play</card_type>
+    <title>Augite</title>
+    <chemistry>Ca (Mg, Fe) Si_2 O_6</chemistry>
+    <classification>inosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>5.5-6.5</hardness>
+    <specific_gravity>3.2-3.6</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>high</crustal_abundance>
+    <economic_value>trivial</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide14.jpg</fileName>
+    <imageName>Slide14</imageName>
+    <card_type>play</card_type>
+    <title>Orthopyroxene</title>
+    <chemistry>(Mg, Fe)_2 Si_2 O_6</chemistry>
+    <classification>inosilicate</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>igneous, metamorphic, mantle</occurrence>
+    <hardness>5-6.0</hardness>
+    <specific_gravity>3.2-3.9</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>high</crustal_abundance>
+    <economic_value>trivial</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide15.jpg</fileName>
+    <imageName>Slide15</imageName>
+    <card_type>play</card_type>
+    <title>Chlorite</title>
+    <chemistry>(Mg, Fe)_5 Al_2 Si_3 O_10 (OH)_8</chemistry>
+    <classification>phyllosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>2-3.0</hardness>
+    <specific_gravity>2.6-3.3</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide16.jpg</fileName>
+    <imageName>Slide16</imageName>
+    <card_type>play</card_type>
+    <title>Antigorite</title>
+    <chemistry>(Mg, Fe)_3 Si_2 O_5 (OH)_4</chemistry>
+    <classification>phyllosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic, mantle</occurrence>
+    <hardness>3.5-4</hardness>
+    <specific_gravity>2.6</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide17.jpg</fileName>
+    <imageName>Slide17</imageName>
+    <card_type>play</card_type>
+    <title>Talc</title>
+    <chemistry>Mg_3 Si_4 O_10 (OH)_2</chemistry>
+    <classification>phyllosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>1</hardness>
+    <specific_gravity>2.6-2.8</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide18.jpg</fileName>
+    <imageName>Slide18</imageName>
+    <card_type>play</card_type>
+    <title>Kaolinite</title>
+    <chemistry>Al_2 Si_2 O_5 (OH)_4</chemistry>
+    <classification>phyllosilicate</classification>
+    <crystal_system>triclinic</crystal_system>
+    <occurrence>sedimentary</occurrence>
+    <hardness>1.5-2.5</hardness>
+    <specific_gravity>2.6-2.7</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide19.jpg</fileName>
+    <imageName>Slide19</imageName>
+    <card_type>play</card_type>
+    <title>Andalusite</title>
+    <chemistry>Al_2 Si O_5</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>6.5-7</hardness>
+    <specific_gravity>3.15</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide20.jpg</fileName>
+    <imageName>Slide20</imageName>
+    <card_type>play</card_type>
+    <title>Kyanite</title>
+    <chemistry>Al_2 Si O_5</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>triclinic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>5.5-7</hardness>
+    <specific_gravity>3.5-3.7</specific_gravity>
+    <cleavage>1 perfect, 1 good</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide21.jpg</fileName>
+    <imageName>Slide21</imageName>
+    <card_type>play</card_type>
+    <title>Sillimanite</title>
+    <chemistry>Al_2 Si O_5</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>6.5-7.5</hardness>
+    <specific_gravity>3.25</specific_gravity>
+    <cleavage>1 perfect, 1 good</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide22.jpg</fileName>
+    <imageName>Slide22</imageName>
+    <card_type>play</card_type>
+    <title>Staurolite</title>
+    <chemistry>(Fe, Mg)_2 Al_9 Si_4 O_22 (OH)_2</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>7</hardness>
+    <specific_gravity>3.7-3.8</specific_gravity>
+    <cleavage>1 good</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide23.jpg</fileName>
+    <imageName>Slide23</imageName>
+    <card_type>play</card_type>
+    <title>Epidote</title>
+    <chemistry>Ca_2 (Al, Fe)_3 Si_3 O_12 (OH)</chemistry>
+    <classification>sorosilicate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>6 - 6.5</hardness>
+    <specific_gravity>3.2 - 3.5</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>trivial</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide24.jpg</fileName>
+    <imageName>Slide24</imageName>
+    <card_type>play</card_type>
+    <title>Tourmaline</title>
+    <chemistry>Na (Mg, Fe)_3 Al_6 B_3 Si_6 O_27 (OH)_4</chemistry>
+    <classification>cyclosilicate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>7 - 7.5</hardness>
+    <specific_gravity>3.0 - 3.2</specific_gravity>
+    <cleavage>2 poor</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide25.jpg</fileName>
+    <imageName>Slide25</imageName>
+    <card_type>play</card_type>
+    <title>Topaz</title>
+    <chemistry>Al_2 Si O_4 (F, OH)_2</chemistry>
+    <classification>nesosilicate</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>8</hardness>
+    <specific_gravity>3.5 - 3.6</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>ultratrace</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide26.jpg</fileName>
+    <imageName>Slide26</imageName>
+    <card_type>play</card_type>
+    <title>Beryl</title>
+    <chemistry>Be_3 Al_2 Si_6 O_18</chemistry>
+    <classification>cyclosilicate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>7.5 - 8</hardness>
+    <specific_gravity>2.6 - 2.9</specific_gravity>
+    <cleavage>1 poor</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide27.jpg</fileName>
+    <imageName>Slide27</imageName>
+    <card_type>play</card_type>
+    <title>Pyrite</title>
+    <chemistry>Fe S_2</chemistry>
+    <classification>sulfide</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>6 - 6.5</hardness>
+    <specific_gravity>5</specific_gravity>
+    <cleavage>2 poor</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide28.jpg</fileName>
+    <imageName>Slide28</imageName>
+    <card_type>play</card_type>
+    <title>Pyrrhotite</title>
+    <chemistry>Fe_{1-x} S</chemistry>
+    <classification>sulfide</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>3.5 - 4.5</hardness>
+    <specific_gravity>4.6</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide29.jpg</fileName>
+    <imageName>Slide29</imageName>
+    <card_type>play</card_type>
+    <title>Chalcopyrite</title>
+    <chemistry>Cu Fe S_2</chemistry>
+    <classification>sulfide</classification>
+    <crystal_system>tetragonal</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>3.5 - 4</hardness>
+    <specific_gravity>4.1 - 4.3</specific_gravity>
+    <cleavage>2 poor</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>very high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide30.jpg</fileName>
+    <imageName>Slide30</imageName>
+    <card_type>play</card_type>
+    <title>Galena</title>
+    <chemistry>Pb S</chemistry>
+    <classification>sulfide</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>2.5</hardness>
+    <specific_gravity>7.5 - 7.6</specific_gravity>
+    <cleavage>3 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide31.jpg</fileName>
+    <imageName>Slide31</imageName>
+    <card_type>play</card_type>
+    <title>Sphalerite</title>
+    <chemistry>(Zn, Fe) S</chemistry>
+    <classification>sulfide</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>3.5 - 4</hardness>
+    <specific_gravity>3.9 - 4.1</specific_gravity>
+    <cleavage>6 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide32.jpg</fileName>
+    <imageName>Slide32</imageName>
+    <card_type>play</card_type>
+    <title>Molybdenite</title>
+    <chemistry>Mo S_2</chemistry>
+    <classification>sulfide</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>igneous, metamorphic</occurrence>
+    <hardness>1 - 1.5</hardness>
+    <specific_gravity>4.7</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide33.jpg</fileName>
+    <imageName>Slide33</imageName>
+    <card_type>play</card_type>
+    <title>Gold</title>
+    <chemistry>Au</chemistry>
+    <classification>native element</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>2.5 - 3</hardness>
+    <specific_gravity>19.3</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>ultratrace</crustal_abundance>
+    <economic_value>Im rich!</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide34.jpg</fileName>
+    <imageName>Slide34</imageName>
+    <card_type>play</card_type>
+    <title>Diamond</title>
+    <chemistry>C</chemistry>
+    <classification>native element</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>10</hardness>
+    <specific_gravity>3.5</specific_gravity>
+    <cleavage>4 perfect</cleavage>
+    <crustal_abundance>ultratrace</crustal_abundance>
+    <economic_value>Im rich!</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide35.jpg</fileName>
+    <imageName>Slide35</imageName>
+    <card_type>play</card_type>
+    <title>Graphite</title>
+    <chemistry>C</chemistry>
+    <classification>native element</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>1-2.0</hardness>
+    <specific_gravity>2.2</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide36.jpg</fileName>
+    <imageName>Slide36</imageName>
+    <card_type>play</card_type>
+    <title>Halite</title>
+    <chemistry>Na Cl</chemistry>
+    <classification>halide</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>sedimentary</occurrence>
+    <hardness>2.5</hardness>
+    <specific_gravity>2.2</specific_gravity>
+    <cleavage>3 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide37.jpg</fileName>
+    <imageName>Slide37</imageName>
+    <card_type>play</card_type>
+    <title>Fluorite</title>
+    <chemistry>Ca F_2</chemistry>
+    <classification>halide</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>metamorphic</occurrence>
+    <hardness>4</hardness>
+    <specific_gravity>3.2</specific_gravity>
+    <cleavage>4 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide38.jpg</fileName>
+    <imageName>Slide38</imageName>
+    <card_type>play</card_type>
+    <title>Gypsum</title>
+    <chemistry>Ca S O_4 (H_2 O)_2</chemistry>
+    <classification>sulfate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>2</hardness>
+    <specific_gravity>2.3</specific_gravity>
+    <cleavage>1 perfect, 2 good</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide39.jpg</fileName>
+    <imageName>Slide39</imageName>
+    <card_type>play</card_type>
+    <title>Barite</title>
+    <chemistry>Ba S O_4</chemistry>
+    <classification>sulfate</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>3 - 3.5</hardness>
+    <specific_gravity>4.5</specific_gravity>
+    <cleavage>2 perfect, 1 good</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide40.jpg</fileName>
+    <imageName>Slide40</imageName>
+    <card_type>play</card_type>
+    <title>Apatite</title>
+    <chemistry>Ca_5 (P O_4)_3 (OH, F, Cl)</chemistry>
+    <classification>phosphate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>5</hardness>
+    <specific_gravity>3.1 - 3.2</specific_gravity>
+    <cleavage>2 poor</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide41.jpg</fileName>
+    <imageName>Slide41</imageName>
+    <card_type>play</card_type>
+    <title>Monazite</title>
+    <chemistry>(La, Ce, Nd) P O_4</chemistry>
+    <classification>phosphate</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>5</hardness>
+    <specific_gravity>5.0 - 5.3</specific_gravity>
+    <cleavage>1 good, 1 poor</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide42.jpg</fileName>
+    <imageName>Slide42</imageName>
+    <card_type>play</card_type>
+    <title>Calcite</title>
+    <chemistry>Ca C O_3</chemistry>
+    <classification>carbonate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>3</hardness>
+    <specific_gravity>2.7</specific_gravity>
+    <cleavage>3 perfect</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide43.jpg</fileName>
+    <imageName>Slide43</imageName>
+    <card_type>play</card_type>
+    <title>Dolomite</title>
+    <chemistry>Ca Mg (C O_3)_2</chemistry>
+    <classification>carbonate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>3.5 - 4</hardness>
+    <specific_gravity>2.9</specific_gravity>
+    <cleavage>3 perfect</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>low</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide44.jpg</fileName>
+    <imageName>Slide44</imageName>
+    <card_type>play</card_type>
+    <title>Magnesite</title>
+    <chemistry>Mg C O_3</chemistry>
+    <classification>carbonate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>4</hardness>
+    <specific_gravity>3</specific_gravity>
+    <cleavage>3 perfect</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide45.jpg</fileName>
+    <imageName>Slide45</imageName>
+    <card_type>play</card_type>
+    <title>Siderite</title>
+    <chemistry>Fe C O_3</chemistry>
+    <classification>carbonate</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>4 - 4.5</hardness>
+    <specific_gravity>4</specific_gravity>
+    <cleavage>3 perfect</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide46.jpg</fileName>
+    <imageName>Slide46</imageName>
+    <card_type>play</card_type>
+    <title>Magnetite</title>
+    <chemistry>Fe_3 O_4</chemistry>
+    <classification>oxide (spinel)</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>5.5 - 6</hardness>
+    <specific_gravity>5.2</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>very high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide47.jpg</fileName>
+    <imageName>Slide47</imageName>
+    <card_type>play</card_type>
+    <title>Hematite</title>
+    <chemistry>Fe_2 O_3</chemistry>
+    <classification>oxide</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>5-6.0</hardness>
+    <specific_gravity>5.3</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide48.jpg</fileName>
+    <imageName>Slide48</imageName>
+    <card_type>play</card_type>
+    <title>Chromite</title>
+    <chemistry>(Fe, Mg) Cr_2 O_4</chemistry>
+    <classification>oxide (spinel)</classification>
+    <crystal_system>isometric</crystal_system>
+    <occurrence>igneous, sedimentary</occurrence>
+    <hardness>5.5</hardness>
+    <specific_gravity>4.5 - 5.1</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide49.jpg</fileName>
+    <imageName>Slide49</imageName>
+    <card_type>play</card_type>
+    <title>Ilmenite</title>
+    <chemistry>Ti Fe O_3</chemistry>
+    <classification>oxide</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>5-6.0</hardness>
+    <specific_gravity>4.7 - 4.8</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide50.jpg</fileName>
+    <imageName>Slide50</imageName>
+    <card_type>play</card_type>
+    <title>Rutile</title>
+    <chemistry>Ti O_2</chemistry>
+    <classification>oxide</classification>
+    <crystal_system>tetragonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>6 - 6.5</hardness>
+    <specific_gravity>4.3</specific_gravity>
+    <cleavage>2 good</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide51.jpg</fileName>
+    <imageName>Slide51</imageName>
+    <card_type>play</card_type>
+    <title>Corundum</title>
+    <chemistry>Al_2 O_3</chemistry>
+    <classification>oxide</classification>
+    <crystal_system>hexagonal</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>9</hardness>
+    <specific_gravity>4</specific_gravity>
+    <cleavage>none</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide52.jpg</fileName>
+    <imageName>Slide52</imageName>
+    <card_type>play</card_type>
+    <title>Cassiterite</title>
+    <chemistry>Sn O_2</chemistry>
+    <classification>oxide</classification>
+    <crystal_system>tetragonal</crystal_system>
+    <occurrence>igneous, metamorphic, sedimentary</occurrence>
+    <hardness>5-6.0</hardness>
+    <specific_gravity>6.9 - 7.1</specific_gravity>
+    <cleavage>1 good, 1 poor</cleavage>
+    <crustal_abundance>trace</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide53.jpg</fileName>
+    <imageName>Slide53</imageName>
+    <card_type>play</card_type>
+    <title>Gibbsite</title>
+    <chemistry>Al (O H)_3</chemistry>
+    <classification>hydroxide</classification>
+    <crystal_system>monoclinic</crystal_system>
+    <occurrence>metamorphic, sedimentary</occurrence>
+    <hardness>2.5 - 3.5</hardness>
+    <specific_gravity>2.4</specific_gravity>
+    <cleavage>1 perfect</cleavage>
+    <crustal_abundance>low</crustal_abundance>
+    <economic_value>high</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide54.jpg</fileName>
+    <imageName>Slide54</imageName>
+    <card_type>play</card_type>
+    <title>Goethite</title>
+    <chemistry>Fe O (OH)</chemistry>
+    <classification>hydroxide</classification>
+    <crystal_system>orthorhombic</crystal_system>
+    <occurrence>sedimentary</occurrence>
+    <hardness>5 - 5.5</hardness>
+    <specific_gravity>4.3</specific_gravity>
+    <cleavage>1 perfect, 1 good</cleavage>
+    <crustal_abundance>moderate</crustal_abundance>
+    <economic_value>moderate</economic_value>
+  </pCard>
+  <pCard>
+    <fileName>Slide55.jpg</fileName>
+    <imageName>Slide55</imageName>
+    <card_type>trump</card_type>
+    <title>The Miner</title>
+    <subtitle>Economic value</subtitle>
+  </pCard>
+  <pCard>
+    <fileName>Slide56.jpg</fileName>
+    <imageName>Slide56</imageName>
+    <card_type>trump</card_type>
+    <title>The Petrologist</title>
+    <subtitle>Crustal abundance</subtitle>
+  </pCard>
+  <pCard>
+    <fileName>Slide57.jpg</fileName>
+    <imageName>Slide57</imageName>
+    <card_type>trump</card_type>
+    <title>The Gemmologist</title>
+    <subtitle>Hardness</subtitle>
+  </pCard>
+  <pCard>
+    <fileName>Slide58.jpg</fileName>
+    <imageName>Slide58</imageName>
+    <card_type>trump</card_type>
+    <title>The Mineralogist</title>
+    <subtitle>Cleavage</subtitle>
+  </pCard>
+  <pCard>
+    <fileName>Slide59.jpg</fileName>
+    <imageName>Slide59</imageName>
+    <card_type>trump</card_type>
+    <title>The Geophysicist</title>
+    <subtitle>Specific gravity</subtitle>
+  </pCard>
+  <pCard>
+    <fileName>Slide60.jpg</fileName>
+    <imageName>Slide60</imageName>
+    <card_type>trump</card_type>
+    <title>The Geologist</title>
+    <subtitle>Change to trumps category of your choice</subtitle>
+  </pCard>
+</deck>
